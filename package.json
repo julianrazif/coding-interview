@@ -1,0 +1,23 @@
+{
+  "name": "coding-interview",
+  "version": "1.0.0",
+  "description": "Learning 50 common interview questions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianrazif/coding-interview.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julianrazif/coding-interview/issues"
+  },
+  "homepage": "https://github.com/julianrazif/coding-interview#readme",
+  "devDependencies": {
+    "eslint": "^7.14.0"
+  }
+}
