@@ -2,7 +2,7 @@
 
 ### **Pertanyaan**
 
-Anda diberikan sebuah string, tentukan jika string tersebut merupakan palindrome. Sebagai pertimbangan hanya karakter saja yang akan diperiksa dan meniadakan case sensitive.
+Anda diberikan sebuah string, tentukan jika string tersebut merupakan palindrome. Sebagai pertimbangan hanya karakter huruf (alfabetik) saja yang akan diperiksa dan meniadakan case sensitive.
 
 ### **Instruction**
 
